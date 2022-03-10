@@ -30,5 +30,3 @@ Open the file `dist/index.html` in your browser
 Made with [createapp.dev](https://createapp.dev/)
 
 # Rock-Paper-Scissor
-# rock-paper-scissor
-# rock-paper-scissor
